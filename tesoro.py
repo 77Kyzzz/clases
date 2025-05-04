@@ -21,3 +21,7 @@ while intentos > 0:
 
 if intentos == 0:
     print(f"Perdiste nt pa la otra sera!. la zona era: {zona_random}")
+
+#git add.
+#git commit -m "mensaje"
+#git push
