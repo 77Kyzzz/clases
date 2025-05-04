@@ -20,4 +20,4 @@ while intentos > 0:
     intentos -= 1
 
 if intentos == 0:
-    print(f"Perdiste nt. la zona era: {zona_random}")
+    print(f"Perdiste nt pa la otra sera!. la zona era: {zona_random}")
