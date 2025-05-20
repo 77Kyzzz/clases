@@ -10,8 +10,6 @@ while True:
             break
 
     while True:
-        opc = [1,2,3,4]
-
         print("---Menu---")
         print(" [1] - Sumar")
         print(" [2] - Restar")
